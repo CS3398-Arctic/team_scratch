@@ -3,3 +3,7 @@ Howdy, world!
 pdc32
 mal190 was here
 pkl12
+<<<<<<< HEAD
+=======
+dhr14
+>>>>>>> dhr14_1st_feature
